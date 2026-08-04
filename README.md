@@ -1,13 +1,10 @@
-## Hi, I'm Serene 👋 
-
-<!--
-**sereneagd/sereneagd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+## Hi, I'm Serene 👋
 ## 🌱 Currently Working On
 
 - 🤖 AI projects
 - 💻 Hackathon projects
 - 🎮 2D game development
+- 🔐 Learning cybersecurity
 
 ## 💻 Tech Stack
 
@@ -20,5 +17,4 @@ Learning:
 - Machine Learning
 - Blender
 - Unity
-
 -->
